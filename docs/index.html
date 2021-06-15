@@ -12,11 +12,17 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+        name: 'Anji Eco',
+        repo: 'AnjiEco/docs',
+        loadSidebar: true,
+        search: [
+            '/',            // => /README.md
+            '/social',       // => /guide.md
+        ],
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
