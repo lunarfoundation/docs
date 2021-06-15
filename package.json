@@ -1,0 +1,26 @@
+{
+  "name": "anjidocs",
+  "version": "1.0.0",
+  "description": "Welcome to the documentation FAQ for the Anji Ecosystem",
+  "main": "index.js",
+  "directories": {
+    "doc": "docsify"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve . --port 3002"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjiEco/docs.git"
+  },
+  "author": "Safepanda <hi@safepanda.net> (https://anji.eco)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnjiEco/docs/issues"
+  },
+  "homepage": "https://github.com/AnjiEco/docs#readme",
+  "dependencies": {
+    "docsify-cli": "~4.4.3"
+  }
+}
