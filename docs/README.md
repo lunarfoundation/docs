@@ -1,4 +1,4 @@
-# Anji Docs
+# Anji Doc
 
 Welcome to the documentation FAQ for the Anji Ecosystem
 
